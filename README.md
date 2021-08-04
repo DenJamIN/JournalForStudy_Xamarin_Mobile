@@ -1,0 +1,1 @@
+# JournalForStudy_Xamarin_Mobile
